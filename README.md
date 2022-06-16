@@ -5,7 +5,7 @@ Feature #9
 -
 ---
 ## Live Demo
-[Diabetes Detection](https://reliance-fyp.github.io/Azure-Health-Bot/)
+[Health Bot](https://reliance-fyp.github.io/Azure-Health-Bot/)
 ---
 
 ## Underlying Biology
