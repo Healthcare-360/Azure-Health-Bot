@@ -15,6 +15,8 @@ Feature #9
 ---
 ### Screenshot of Application
 ![Screenshot of App](https://raw.githubusercontent.com/Reliance-FYP/Azure-Health-Bot/main/app.png)
+![](https://raw.githubusercontent.com/Healthcare-360/Azure-Health-Bot/main/Azure%20Health%20Bot.png)
+
 ---
 
 ### Shreyan Fernandes Official Detailed Presentation
